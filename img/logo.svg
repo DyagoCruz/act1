@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+
+    <rect width="200" height="200" rx="40" fill="#175cd3"></rect>
+
+    <rect x="42" y="48" width="116" height="78" rx="8" fill="#ffffff"></rect>
+
+    <rect x="52" y="58" width="96" height="58" rx="4" fill="#dbeafe"></rect>
+
+    <rect x="85" y="126" width="30" height="15" fill="#ffffff"></rect>
+
+    <rect x="66" y="141" width="68" height="10" rx="5" fill="#ffffff"></rect>
+
+    <circle cx="100" cy="87" r="17" fill="#175cd3"></circle>
+
+    <text x="100" y="94" font-family="Arial" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">
+        T
+    </text>
+
+</svg>
